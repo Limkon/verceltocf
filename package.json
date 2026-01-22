@@ -1,0 +1,7 @@
+{
+  "name": "vercel-secure",
+  "version": "1.0.0",
+  "description": "A secure Vercel Edge",
+  "private": true,
+  "license": "MIT"
+}
